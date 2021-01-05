@@ -57,6 +57,7 @@ Table of contents from Test-Driven Development with Python, py-adonis, and Docke
 
 ### Part 1
 - Introduction
+- [uWsgi](uwsgi.md)
 - Changelog
 - Getting Started
 - Docker Config
