@@ -1,4 +1,4 @@
-## Welcome Python Microservice API framework - Py-Adonis
+# Own building Python Microservice API framework
 ## Learning Objectives
 By the end of this Tutorial, you will be able to:
 
@@ -77,6 +77,12 @@ Table of contents from Test-Driven Development with Python, py-adonis, and Docke
 - Workflow
 - Structure
 - Next Steps
+
+### Who this course is for:
+ - Beginners with no previous programming experience looking to obtain the skills to get their first programming job.
+ - Anyone looking to to build the minimum Python programming skills necessary as a pre-requisites for moving into machine learning, data science, and artificial intelligence.
+ - Existing programmers who want to improve their career options by learning the Python programming language.
+ - If you are an expert Python programmer with extensive knowledge, and many years’ experience, then this course is probably not for you.
 
 You can use the [editor on GitHub](https://github.com/nayonacademy/py-adonis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
