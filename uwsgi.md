@@ -2,7 +2,9 @@
 
 The complete official document of uwsgi is here [Python/WSGI applications](https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html)     
 
-```pip install uwsgi```
+```
+pip install uwsgi
+```
 
 First write a wsgi application. we can start with hello world
 
