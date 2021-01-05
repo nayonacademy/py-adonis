@@ -1,7 +1,7 @@
 from webob import Request, Response
 from parse import parse
 
-class API:
+class AdonisAPI:
 
     def __init__(self):
         self.routes = {}

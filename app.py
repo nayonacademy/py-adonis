@@ -1,7 +1,6 @@
-from api import API
+from adonis import AdonisAPI
 
-app = API()
-
+app = AdonisAPI()
 
 def home(request, response):
     response.text = "Welcome to Home page"
@@ -12,4 +11,4 @@ def about(request, response):
 
 
 def say_hello(request, response, person_name):
-    resp.text = f"hello {person_name}"
+    response.text = f"hello {person_name}"
