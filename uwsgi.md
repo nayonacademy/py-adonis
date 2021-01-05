@@ -1,4 +1,11 @@
-# Build Simple Python server with uwsgi
+# Build Simple Python web server with uwsgi
+
+## Web server
+How the webserver work. Just imagine how our own python framework webserver will work
+
+![web server](images/web-server.svg "web server")
+
+photo credit : [mozila](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 
 The complete official document of uwsgi is here [Python/WSGI applications](https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html)     
 
