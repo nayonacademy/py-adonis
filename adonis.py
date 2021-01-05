@@ -1,6 +1,7 @@
 from webob import Request, Response
 from parse import parse
 
+
 class AdonisAPI:
 
     def __init__(self):
